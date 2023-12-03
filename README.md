@@ -6,6 +6,7 @@ It is a repository. It contains python code and application
 First You Need to Install Python
 
 sudo apt install python3
+
 sudo apt install python3-pip
 
 Then install python library and Modules
