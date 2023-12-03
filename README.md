@@ -31,3 +31,7 @@ According to Touring theory, python is classified into modules
 Paste this code to your Ubuntu Terminal
 
 `chmod u+x start.sh`
+
+Then paste
+
+`./start.sh`
