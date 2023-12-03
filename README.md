@@ -1,4 +1,4 @@
-# School Election Application & Python Script
+# School Election Application & Python Script For Ubuntu
 It is a repository. It contains python code and application
 
 # How to run python scripts ?
