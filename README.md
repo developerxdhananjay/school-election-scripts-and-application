@@ -12,7 +12,9 @@ sudo apt install python3-pip
 Then install python library and Modules
 
 pip install pynput
+
 pip install beep
+
 pip install notify2
 
 # Installing Sammaty
