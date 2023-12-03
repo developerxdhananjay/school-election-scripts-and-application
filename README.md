@@ -25,3 +25,9 @@ Install Sammaty in Ubuntu by installing `sammaty_1.2.9-202307011143-ppa1~ubuntu2
 # How this works ?
 
 According to Touring theory, python is classified into modules
+
+# Run start.sh
+
+Paste this code to your Ubuntu Terminal
+
+`chmod u+x start.sh`
